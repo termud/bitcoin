@@ -3,14 +3,14 @@
 # You can adjust the behavior by modifying this file.
 # For more information, see:
 # https://github.com/actions/stale
-name: Mark stale issues and pull requests
-
-on:
+tên : Đánh dấu các vấn đề cũ và yêu cầu kéo
+[![Mark stale issues and pull requests](https://github.com/termud/bitcoin/actions/workflows/stale.yml/badge.svg?branch=AIphanbade%E2%81%B9%C2%B3&event=branch_protection_rule)](https://github.com/termud/bitcoin/actions/workflows/stale.yml)
+trên :
   schedule:
   - cron: '42 12 * * *'
 
-jobs:
-  stale:
+việc làm :
+  cũ :
 
     runs-on: ubuntu-latest
     permissions:
