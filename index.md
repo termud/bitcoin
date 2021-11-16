@@ -1,3 +1,5 @@
+[phanbade.md](https://github.com/termud/bitcoin/files/7549046/phanbade.md)
+[README.md](https://github.com/termud/bitcoin/files/7549047/README.md)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/termud/bitcoin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
