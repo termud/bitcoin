@@ -88,10 +88,6 @@ and unit and sanity tests are automatically run. The binaries produced may be
 
 used for manual QA testing — a link to them will appear in a comment on the
 
-pull request posted by [termudbitcoin/](https://github.com/termudbitcoin). See https://github.com/TheBlueMatt/test-scripts
-
-for the build/test scripts.
-
 ### Manual Quality Assurance (QA) Testing
 
 Large changes should have a test plan, and should be tested by somebody other
