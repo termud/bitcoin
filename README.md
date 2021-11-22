@@ -4,7 +4,7 @@ SATOSHI 2008-2009
 Bitcoin Core integration/staging tree
 =====================================
 
-http: //www.bitcoin.phan
+http: // www.bitcoin.phan
 # nguyên tử
 
 AIphanbade
