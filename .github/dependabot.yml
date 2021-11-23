@@ -1,0 +1,45 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      khoảng thời gian: "hàng ngày"
+<p xmlns: dct = "http://purl.org/dc/terms/" xmlns: vcard = "http://www.w3.org/2001/vcard-rdf/3.0#">
+
+  <a rel = "giấy phép"
+
+     href = "http://creativecommons.org/publicdomain/zero/1.0/">
+
+    <img src = "http://i.creativecommons.org/p/zero/1.0/88x31.png" style = "border-style: none;" alt = "CC0" />
+
+  </a>
+
+  <br />
+
+  Trong phạm vi có thể theo luật,
+
+  <a rel = "dct: publisher"
+
+     href = "https://docs.github.com">
+
+    <span property = "dct: title"> Phan Bá Đệ </span> </a>
+
+  đã từ bỏ tất cả bản quyền và các quyền liên quan hoặc lân cận đối với
+
+  <span property = "dct: title"> Giấy phép quốc tế pháp CC0 1.0 UNIVERSAL [AIphanbade⁹³ (d)] </span>.
+
+Tác phẩm này được xuất bản từ:
+
+<span property = "vcard: Quốc gia" datatype = "dct: ISO3166"
+
+      content = "VN" about = "https://docs.github.com">
+
+  Việt Nam </span>.
+
+</p>
+NSdestart
